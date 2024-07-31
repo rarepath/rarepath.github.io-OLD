@@ -1,2 +1,1 @@
-# rarepath.github.io
-Landing page of rare disease hackathon
+Landing page for Rare Disease Chat Agent
